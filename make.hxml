@@ -1,0 +1,6 @@
+#!/usr/bin/haxe
+
+-neko nebot.n
+-main Launch.hx
+-lib ArrayTools
+-debug
